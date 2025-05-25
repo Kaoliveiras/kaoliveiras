@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="left">CONECT WITH ME!:</h5>
+<h5 align="left">CONECT WITH ME!</h5>
 
 ###
 
