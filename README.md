@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hello, my name is Karina!👋😊<br>I'm a cybersecurity student and enthusiast.👩‍💻</h2>
+<h2 align="center">Hello, my name is Karina!👋<br>I'm a cybersecurity student and enthusiast.👩‍💻</h2>
 
 ###
 
