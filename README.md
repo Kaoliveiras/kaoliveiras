@@ -1,4 +1,4 @@
-<h2 align="left">Hello, my name is Karina!👋<br>I'm a cybersecurity student and enthusiast.👩‍💻</h2>
+<h2 align="left">Hello, my name is Karina!👋😊<br>I'm a cybersecurity student and enthusiast.👩‍💻</h2>
 
 ###
 
@@ -11,12 +11,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kaoliveiras/Kaoliveiras/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -34,5 +28,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Kaoliveiras/Kaoliveiras/output/snake.svg" alt="Snake animation" />
 
 ###
