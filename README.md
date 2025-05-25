@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left">🕵️📝I'm currently studying Cybersecurity and looking to create and participate in entry-level projects in areas such as vulnerability analysis, penetration testing, network and web application security, cryptography, incident response, digital forensics, and cloud security.<br><br>💻❤️I'm improving my skills in Linux and system administration, analysis and monitoring tools (Wireshark, Nmap, Metasploit), network fundamentals and security protocols, and programming for security automation (Python).</p>
+
+###
+
 <br clear="both">
 
 <div align="left">
