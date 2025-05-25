@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="left">CONTACT ME:</h5>
+<h5 align="left">CONECT WITH ME!:</h5>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h5 align="left">LANGUAGES AND TOOLS:</h5>
+<h5 align="left">MY STACK</h5>
 
 ###
 
