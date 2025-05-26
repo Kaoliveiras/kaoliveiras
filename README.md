@@ -26,6 +26,7 @@ Hello, my name is Karina! 👋😊
 </div>
 
 ###
+---
 <h5 align="left">MY STACK</h5>
 
 <div align="left">
@@ -35,7 +36,7 @@ Hello, my name is Karina! 👋😊
 </div>
 
 ###
-
+---
 <img src="https://raw.githubusercontent.com/Kaoliveiras/Kaoliveiras/output/snake.svg" alt="Snake animation" />
 
 ###
