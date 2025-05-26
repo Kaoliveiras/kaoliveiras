@@ -6,12 +6,11 @@
 <img align="left" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3EyMHg3eXA1YmMwYzF3bGV3Nnp6ZW4xZnl6MDdnM2xiOWM5ZW4zciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7VbqJo5D3dbYqzuOk/giphy.gif"  />
 
 
-<h2 align="left">Hello, my name is Karina! 👋😊</h2>
 
 
 <p align="left">🕵️📝I'm currently studying Cybersecurity and looking to create and participate in entry-level projects in areas such as vulnerability analysis, penetration testing, network and web application security, cryptography, incident response, digital forensics, and cloud security.<br><br>💻❤️I'm improving my skills in Linux, analysis and monitoring tools, network fundamentals, security protocols, and programming for security automation (Python).</p>
 
-###
+
 
 <h5 align="left">CONNECT WITH ME!</h5>
 
