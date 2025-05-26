@@ -33,7 +33,7 @@ Hello, my name is Karina! 👋😊
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&border_color=561760" height="150" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoliveiras&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula&hide=html,scss,less&text_color=8B8B8B&border_radius=3&border_color=561760" height="150" alt="Most Used Languages" />
