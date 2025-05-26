@@ -28,31 +28,6 @@ Hello, my name is Karina! 👋😊
 ###
 
 
-<h5 align="left">MY STACK</h5>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kaoliveiras/Kaoliveiras/output/snake.svg" alt="Snake animation" />
-
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: nowrap; margin-top: 20px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoliveiras&layout=compact&langs_count=4&theme=dracula"
-    height="150"
-    alt="Most Used Languages"
-  />
-</div>
-
 
 <table>
   <tr>
