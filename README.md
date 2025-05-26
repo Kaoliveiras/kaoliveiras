@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3EyMHg3eXA1YmMwYzF3bGV3Nnp6ZW4xZnl6MDdnM2xiOWM5ZW4zciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7VbqJo5D3dbYqzuOk/giphy.gif"  />
+<img align="left" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3EyMHg3eXA1YmMwYzF3bGV3Nnp6ZW4xZnl6MDdnM2xiOWM5ZW4zciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7VbqJo5D3dbYqzuOk/giphy.gif"  />
 
 
 <h2 align="left">Hello, my name is Karina! 👋😊</h2>
