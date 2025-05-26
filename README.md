@@ -26,10 +26,19 @@ Hello, my name is Karina! 👋😊
 </div>
 
 ###
+<h5 align="left">MY STACK</h5>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/Kaoliveiras/Kaoliveiras/output/snake.svg" alt="Snake animation" />
 
+###
 <table>
   <tr>
     <td>
