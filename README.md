@@ -28,6 +28,7 @@ Hello, my name is Karina! 👋😊
 ###
 
 
+<img src="https://raw.githubusercontent.com/Kaoliveiras/Kaoliveiras/output/snake.svg" alt="Snake animation" />
 
 <table>
   <tr>
