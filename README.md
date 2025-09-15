@@ -12,7 +12,10 @@ Hello, my name is Karina! 👋😊
 
 ###
 
-<p align="left">🕵️📝I'm currently studying Cybersecurity and looking to create and participate in entry-level projects in areas such as vulnerability analysis, penetration testing, network and web application security, cryptography, incident response, digital forensics, and cloud security.<br><br>💻❤️I'm improving my skills in Linux, analysis and monitoring tools, network fundamentals, security protocols, and programming for security automation (Python).</p>
+<p align="left">🕵️📝 I'm currently studying Cybersecurity and exploring entry-level projects in: <br>
+• Vulnerability analysis & penetration testing • Network & web security • Cryptography, incident response & digital forensics • Cloud security.<br><br>
+💻❤️ I'm improving my skills in Linux, networking, security protocols, monitoring tools, and Python programming for security automation.<br><br>
+🌟 I enjoy solving challenges that require creative problem-solving and critical thinking. I use this space to share my projects and to learn.</p>
 
 ---
 
@@ -38,12 +41,6 @@ Hello, my name is Karina! 👋😊
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karinadeoliveira96s@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo" />
   </a>
-
-  <!-- Alternativa universal (abre no cliente de e-mail padrão):
-  <a href="mailto:karinadeoliveira96s@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo" />
-  </a>
-  -->
 </div>
 
 ---
