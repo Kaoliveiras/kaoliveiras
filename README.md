@@ -14,7 +14,7 @@ Hello, my name is Karina! 👋😊
 
 <p align="left">🕵️📝 I'm currently studying Cybersecurity and exploring entry-level projects in: <br>
 • Vulnerability analysis & penetration testing • Network & web security • Cryptography, incident response & digital forensics • Cloud security.<br><br>
-💻❤️ I'm improving my skills in Linux, networking, security protocols, monitoring tools, and Python programming for security automation.<br><br>
+💻❤️ Looking to improve my skills in Linux, networking, security protocols, monitoring tools, and Python programming for security automation.<br><br>
 🌟 I enjoy solving challenges that require creative problem-solving and critical thinking. I use this space to share my projects and to learn.</p>
 
 ---
