@@ -12,7 +12,7 @@ Hello, my name is Karina! 👋😊
 
 ###
 
-<p align="left"> 🎓I'm a <strong>Cybersecurity student</strong> focusing on a career as a <strong>SOC Analyst</strong>.<br><br>
+<p align="left"> 🎓I'm a <strong>Cybersecurity student</strong> focusing on a career as a <strong>Cybersecurity Analyst</strong>.<br><br>
 💻❤️ I'm developing skills in <strong>security monitoring tools, incident response</strong>, and <strong>Python for security automation</strong>.<br><br>
 🔍👩‍💻 I am also exploring <strong>GRC (Governance, Risk & Compliance)</strong> and <strong>Digital Forensics</strong> to deepen my understanding of risk management, compliance, and investigative techniques.<br><br>
 💡⭐ I enjoy solving challenges that require <strong>critical thinking and creative problem-solving</strong>, and I use this space to share projects and continue learning in cybersecurity.</p>
