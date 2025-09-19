@@ -12,10 +12,10 @@ Hello, my name is Karina! 👋😊
 
 ###
 
-<p align="left">🕵️📝 I'm currently studying Cybersecurity and exploring entry-level projects in: <br>
-• Vulnerability analysis & penetration testing • Network & web security • Cryptography, incident response & digital forensics • Cloud security.<br><br>
-💻❤️ Looking to improve my skills in Linux, networking, security protocols, monitoring tools, and Python programming for security automation.<br><br>
-🌟 I enjoy solving challenges that require creative problem-solving and critical thinking. I use this space to share my projects and to learn.</p>
+<p align="left"> 🎓I'm a <strong>Cybersecurity student</strong> focusing on a career as a <strong>SOC Analyst</strong>.<br><br>
+💻❤️ I'm developing skills in <strong>security monitoring tools, incident response</strong>, and <strong>Python for security automation</strong>.<br><br>
+🔍👩‍💻 I am also exploring <strong>GRC (Governance, Risk & Compliance)</strong> and <strong>Digital Forensics</strong> to deepen my understanding of risk management, compliance, and investigative techniques.<br><br>
+💡⭐ I enjoy solving challenges that require <strong>critical thinking and creative problem-solving</strong>, and I use this space to share projects and continue learning in cybersecurity.</p>
 
 ---
 
@@ -37,7 +37,7 @@ Hello, my name is Karina! 👋😊
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="30" alt="tryhackme logo" />
   </a>
 
-  <!-- Gmail (abre janela de nova mensagem no Gmail) -->
+  <!-- Gmail -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karinadeoliveira96s@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo" />
   </a>
@@ -48,10 +48,9 @@ Hello, my name is Karina! 👋😊
 <h5 align="left">MY STACK</h5>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-</div>
+  <img width="12" />
+  
 
 ---
 
@@ -62,10 +61,4 @@ Hello, my name is Karina! 👋😊
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&border_color=561760" height="150" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoliveiras&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula&hide=html,scss,less&text_color=8B8B8B&border_radius=3&border_color=561760" height="150" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank
