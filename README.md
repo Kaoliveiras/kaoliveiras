@@ -8,14 +8,16 @@
 
 ###
 
-Hello, my name is Karina! 👋😊
+Hello, my name is Karina! 👋
 
 ###
 
-<p align="left"> 🎓I'm a <strong>Cybersecurity student</strong> focusing on a career as a <strong>Cybersecurity Analyst</strong>.<br><br>
-💻❤️ I'm developing skills in <strong>security monitoring tools, incident response</strong>, and <strong>Python for security automation</strong>.<br><br>
-🔍👩‍💻 I am also exploring <strong>GRC (Governance, Risk & Compliance)</strong> and <strong>Digital Forensics</strong> to deepen my understanding of risk management, compliance, and investigative techniques.<br><br>
-💡⭐ I enjoy solving challenges that require <strong>critical thinking and creative problem-solving</strong>, and I use this space to share projects and continue learning in cybersecurity.</p>
+<p align="left"> 
+🎓 I’m a cybersecurity student pursuing a career as a <strong>Cybersecurity Analyst</strong>.<br><br>
+🔍 I’m exploring areas such as <strong>SOC</strong> (Security Operations Center), <strong>GRC</strong> (Governance, Risk & Compliance), and <strong>Digital Forensics</strong>, to deepen my understanding of threat detection, risk management, compliance, and investigative techniques.<br><br>
+👩‍💻 <strong>Developing skills</strong> in security monitoring tools, incident response, and Python for security automation.<br><br>
+❤️ I’m passionate about solving challenges that require critical thinking and creative problem-solving, and I use this space to <strong>share projects</strong> and continue <strong>learning in cybersecurity</strong>.
+</p>
 
 ---
 
@@ -50,7 +52,7 @@ Hello, my name is Karina! 👋😊
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
-  
+</div>
 
 ---
 
@@ -61,4 +63,7 @@ Hello, my name is Karina! 👋😊
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank
+      <img src="https://github-readme-stats.vercel.app/api?username=Kaoliveiras&hide_title=false&hide_rank" />
+    </td>
+  </tr>
+</table>
