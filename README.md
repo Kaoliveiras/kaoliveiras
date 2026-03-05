@@ -29,10 +29,6 @@ Hello, I'm Karina! 👋
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" />
   </a>
 
-  <!-- Discord -->
-  <a href="http://discord.gg/992ZHCcQ" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo" />
-  </a>
 
   <!-- TryHackMe -->
   <a href="https://tryhackme.com/p/karinaest.oliveira" target="_blank" rel="noopener noreferrer">
