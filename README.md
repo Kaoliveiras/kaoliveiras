@@ -8,7 +8,7 @@
 
 ###
 
-Hello, my name is Karina! 👋
+Hello, I'm Karina! 👋
 
 ###
 
